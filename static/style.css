@@ -1,0 +1,7 @@
+.cover{
+    background: url('/media/background.jpg') !important;
+    background-position: center !important; 
+    background-size: cover !important;
+    height: 100vh ;
+    background-repeat: no-repeat !important;
+}
