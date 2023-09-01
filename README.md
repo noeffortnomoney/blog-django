@@ -4,7 +4,7 @@
 
   - Technology in using the project:
     
-    Frontend: HTML, SCSS, JavaScript
+    Frontend: HTML, CSS/SCSS, JavaScript
     
     Backend: Python, Django
     
