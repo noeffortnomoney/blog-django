@@ -10,4 +10,4 @@
     
     Database: SQLite
     
- <center><img src="" alt="pic" width="600" height="400"></center>
+ 
