@@ -1,6 +1,6 @@
 # Blog App 
 
-  - Link DEMO: [Blog App]()
+  - Link DEMO: 
 
   - Technology in using the project:
     
